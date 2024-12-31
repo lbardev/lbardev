@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @lbardev phd in geomechanics (upc/barcelona) 
-- 👀 I’m interested in coupled problems, multiphase flow, psychology, music, literature 
-- 🌱 I’m currently working as scientific code developer & learning python other languages
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in coupled problems, multiphase flow, python // psychology, music, literature 
+- 🌱 I’m currently working as scientific code developer in fortran 
+- 💞️ I’m looking to collaborate on R&D projects (related to O&G or CCUS)
+- 📫 How to reach me: send comment
 
 <!---
 lbardev/lbardev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
