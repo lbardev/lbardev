@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lbardev phd in geomechanics (upc/barcelona) 
 - 👀 I’m interested in coupled problems, multiphase flow, python // psychology, music, literature 
-- 🌱 I’m currently working as scientific code developer in fortran 
+- 🌱 I’m currently working as scientific code developer (fortran) 
 - 💞️ I’m looking to collaborate on R&D projects (related to O&G or CCUS)
 - 📫 How to reach me: send comment
 
